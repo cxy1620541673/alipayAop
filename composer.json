@@ -1,0 +1,14 @@
+{
+    "name": "cxy/alipay-aop",
+    "description": "支付宝原生SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenxuyi",
+            "email": "1620541673@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
